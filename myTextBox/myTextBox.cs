@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace myTextBox
+namespace myc
 {
-    public class Class1
+    class myTextBox
     {
+
     }
 }
